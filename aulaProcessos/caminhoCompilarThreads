@@ -1,0 +1,3 @@
+Compilar com Thread e sem smash:
+
+gcc threadsemsemaf.c -o thread_ss -lpthread -fno-stack-protector
